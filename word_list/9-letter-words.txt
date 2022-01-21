@@ -414,7 +414,7 @@ aftermost
 afternoon
 aftertime
 afterward
-after
+afterword
 agallochs
 agalwoods
 agateware
@@ -1699,7 +1699,7 @@ backstops
 backstory
 backswept
 backswing
-backs
+backwords
 backtalks
 backtrack
 backwards
@@ -3195,7 +3195,7 @@ butyrates
 buxomness
 buzzbaits
 buzzkills
-buzzs
+buzzwords
 bycatches
 bypassing
 bystander
@@ -3690,7 +3690,7 @@ catchiest
 catchment
 catchpole
 catchpoll
-catch
+catchword
 catechins
 catechism
 catechist
@@ -5485,7 +5485,7 @@ crosswalk
 crossways
 crosswind
 crosswise
-cross
+crossword
 crostatas
 crotchets
 crotchety
@@ -5634,7 +5634,7 @@ curvetted
 cushioned
 cuspidate
 cuspidors
-cusss
+cusswords
 custodial
 custodian
 custodies
@@ -9290,7 +9290,7 @@ forewarns
 forewings
 forewoman
 forewomen
-fores
+forewords
 foreyards
 forfeited
 forfeiter
@@ -10723,7 +10723,7 @@ headstock
 headstone
 headwater
 headwinds
-heads
+headwords
 headworks
 healthful
 healthier
@@ -13163,7 +13163,7 @@ lixiviate
 lixiviums
 loadstars
 loadstone
-loans
+loanwords
 loathings
 loathness
 loathsome
@@ -14365,7 +14365,7 @@ misunions
 misusages
 misvalued
 misvalues
-mised
+misworded
 miswrites
 misyoking
 miterwort
@@ -16331,7 +16331,7 @@ overweens
 overweigh
 overwhelm
 overwinds
-overs
+overwords
 overworks
 overwound
 overwrite
@@ -16685,7 +16685,7 @@ passivist
 passivity
 passovers
 passports
-passs
+passwords
 pastedown
 pastelist
 pasticcio
@@ -19974,7 +19974,7 @@ rewidened
 rewinders
 rewinding
 rewinning
-reing
+rewording
 reworking
 rewrapped
 rewriters
@@ -22688,7 +22688,7 @@ stoppages
 stoppered
 stoppling
 stopwatch
-stops
+stopwords
 storables
 storeroom
 storeship
@@ -23287,7 +23287,7 @@ swasticas
 swastikas
 swaybacks
 swearings
-swear
+swearword
 sweatband
 sweatered
 sweatiest
@@ -23338,12 +23338,12 @@ swizzling
 swooniest
 swoopiest
 swooshing
-sfish
-slike
-splay
-ssman
-ssmen
-stail
+swordfish
+swordlike
+swordplay
+swordsman
+swordsmen
+swordtail
 swounding
 sybarites
 sybaritic
@@ -26038,7 +26038,7 @@ watchcase
 watchdogs
 watcheyes
 watchouts
-watch
+watchword
 waterages
 waterbeds
 waterbird
@@ -26418,10 +26418,10 @@ woolsheds
 woolskins
 woolworks
 wooziness
-books
-iness
-plays
-smith
+wordbooks
+wordiness
+wordplays
+wordsmith
 workbench
 workboats
 workbooks

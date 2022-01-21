@@ -365,7 +365,7 @@ aftershock
 aftertaste
 aftertimes
 afterwards
-afters
+afterwords
 afterworld
 agapanthus
 agednesses
@@ -1358,7 +1358,7 @@ backstitch
 backstreet
 backstroke
 backswings
-backss
+backswords
 backtracks
 backwardly
 backwashed
@@ -2181,7 +2181,7 @@ broadscale
 broadsheet
 broadsided
 broadsides
-broads
+broadsword
 broadtails
 brocatelle
 brochettes
@@ -2665,7 +2665,7 @@ catchments
 catchpenny
 catchpoles
 catchpolls
-catchs
+catchwords
 catecheses
 catechesis
 catechisms
@@ -4201,7 +4201,7 @@ crossruffs
 crosstrees
 crosswalks
 crosswinds
-crosss
+crosswords
 croustades
 crowbarred
 crucifiers
@@ -11228,7 +11228,7 @@ mistrusted
 mistrysted
 mistutored
 misvaluing
-mising
+miswording
 miswriting
 miswritten
 miterworts
@@ -17081,7 +17081,7 @@ slungshots
 slushiness
 smackdowns
 smallpoxes
-smalls
+smallsword
 smaragdine
 smarminess
 smartasses
@@ -18298,7 +18298,7 @@ swansdowns
 swarajists
 swarthiest
 swaybacked
-swears
+swearwords
 sweatbands
 sweatboxes
 sweatiness
@@ -18334,8 +18334,8 @@ swithering
 swivelling
 swooningly
 swoopstake
-splays
-stails
+swordplays
+swordtails
 sybaritism
 sycophancy
 sycophants
@@ -20425,7 +20425,7 @@ watchcries
 watchfully
 watchmaker
 watchtower
-watchs
+watchwords
 waterbirds
 waterborne
 waterbucks
@@ -20661,9 +20661,9 @@ woodstoves
 woodworker
 woolgather
 woolliness
-lessly
-monger
-smiths
+wordlessly
+wordmonger
+wordsmiths
 workaholic
 workbasket
 workforces

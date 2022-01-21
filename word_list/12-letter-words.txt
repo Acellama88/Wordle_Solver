@@ -8873,7 +8873,7 @@ significancy
 silhouetting
 silhouettist
 silversmiths
-silverss
+silverswords
 silviculture
 similarities
 simoniacally
@@ -9494,7 +9494,7 @@ swingletrees
 switchbacked
 switchblades
 switchboards
-splayers
+swordplayers
 sycophancies
 sycophantish
 sycophantism
@@ -10607,8 +10607,8 @@ woodenheaded
 woodshedding
 woolgathered
 woolgatherer
-lessness
-smithery
+wordlessness
+wordsmithery
 workableness
 workingwoman
 workingwomen

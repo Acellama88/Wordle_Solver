@@ -1575,7 +1575,7 @@ broadcaster
 broadcloths
 broadsheets
 broadsiding
-broadss
+broadswords
 brocatelles
 brominating
 bromination
@@ -12672,7 +12672,7 @@ silveriness
 silverpoint
 silversides
 silversmith
-silvers
+silversword
 similitudes
 simplifiers
 simplifying
@@ -12745,7 +12745,7 @@ slovenliest
 slumgullion
 smallholder
 smallnesses
-smallss
+smallswords
 smartnesses
 smartphones
 smatterings
@@ -13619,8 +13619,8 @@ switchboard
 switcheroos
 switchgrass
 switchyards
-sfishes
-splayer
+swordfishes
+swordplayer
 sycophantic
 sycophantly
 syllabaries
@@ -15276,8 +15276,8 @@ woodworkers
 woodworking
 woolgathers
 woozinesses
-inesses
-mongers
+wordinesses
+wordmongers
 workability
 workaholics
 workaholism
