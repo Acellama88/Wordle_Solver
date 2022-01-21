@@ -30,4 +30,4 @@ Example: ***s*
 Enter the letters you have guessed and know are not in the word.  If there are none, hit enter.  
 Example: ai
 
-The program will eliminate all words not matching your criteria.  It will reassess the words, and give 5 new suggestions.  The program it sequential, and won't include the words already removed from the previous round.  This can simplify entries as you only need to enter the newest data.  You can enter all the data, it won't affect the results.
+The program will eliminate all words not matching your criteria.  It will reassess the words, and give 5 new suggestions.  The program is sequential, and won't include the words already removed from the previous round.  This can simplify entries as you only need to enter the newest data.  You can enter all the data, it won't affect the results.
