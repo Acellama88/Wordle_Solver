@@ -7,6 +7,8 @@ numLetters = 0
 def getWordList():
     global wordlist, numLetters
     numLetters = input("How many letters? ")
+    if(numLetters == ""):
+        numLetters = 5
     numLetters = int(numLetters)
     if 2 <= numLetters <= 15:
         with open(f'./word_list/{numLetters}-letter-words.txt', 'r') as f:
