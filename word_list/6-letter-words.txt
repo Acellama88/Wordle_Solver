@@ -2057,7 +2057,7 @@ byssal
 byssus
 bytalk
 byways
-by
+byword
 bywork
 byzant
 cabala
@@ -11824,7 +11824,7 @@ rewind
 rewins
 rewire
 rewoke
-re
+reword
 rewore
 rework
 reworn
@@ -14086,7 +14086,7 @@ swoony
 swoops
 swoopy
 swoosh
-ss
+swords
 swound
 swouns
 syboes
@@ -16201,8 +16201,8 @@ wooler
 woolie
 woolly
 woopie
-ed
-ie
+worded
+wordie
 worked
 worker
 workup

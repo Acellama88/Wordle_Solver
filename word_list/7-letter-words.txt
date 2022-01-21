@@ -3115,7 +3115,7 @@ byrling
 byrnies
 byroads
 bytalks
-bys
+bywords
 byworks
 byzants
 cabalas
@@ -11599,7 +11599,7 @@ keypals
 keysets
 keyster
 keyways
-key
+keyword
 khaddar
 khalifa
 khalifs
@@ -13580,7 +13580,7 @@ mistype
 misused
 misuser
 misuses
-mis
+misword
 miswrit
 misyoke
 mitered
@@ -14426,7 +14426,7 @@ nonuses
 nonwage
 nonwars
 nonwool
-non
+nonword
 nonwork
 nonzero
 noodged
@@ -18315,7 +18315,7 @@ rewinds
 rewired
 rewires
 rewoken
-res
+rewords
 reworks
 rewound
 rewoven
@@ -24779,11 +24779,11 @@ wooshed
 wooshes
 woozier
 woozily
-age
-ier
-ies
-ily
-ing
+wordage
+wordier
+wordies
+wordily
+wording
 workbag
 workbox
 workday

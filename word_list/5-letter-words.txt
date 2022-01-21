@@ -7894,7 +7894,7 @@ swobs
 swoon
 swoop
 swops
-s
+sword
 swore
 sworn
 swots
@@ -9089,8 +9089,8 @@ woops
 woopy
 woosh
 woozy
-s
-y
+words
+wordy
 works
 world
 worms

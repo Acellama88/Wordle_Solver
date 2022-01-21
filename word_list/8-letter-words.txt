@@ -3779,7 +3779,7 @@ buzzcuts
 buzziest
 buzzkill
 buzzwigs
-buzz
+buzzword
 byliners
 bylining
 bypassed
@@ -6573,7 +6573,7 @@ cuspidal
 cuspides
 cuspidor
 cussedly
-cuss
+cussword
 custards
 custardy
 custodes
@@ -10624,7 +10624,7 @@ forevers
 forewarn
 forewent
 forewing
-fore
+foreword
 foreworn
 foreyard
 forfeits
@@ -12519,7 +12519,7 @@ headstay
 headward
 headways
 headwind
-head
+headword
 headwork
 healable
 healings
@@ -14386,7 +14386,7 @@ keypress
 keypunch
 keysters
 keystone
-keys
+keywords
 khaddars
 khalifas
 khamseen
@@ -15332,7 +15332,7 @@ loamiest
 loamless
 loanable
 loanings
-loan
+loanword
 loathers
 loathful
 loathing
@@ -16700,7 +16700,7 @@ misusage
 misusers
 misusing
 misvalue
-miss
+miswords
 miswrite
 miswrote
 misyoked
@@ -17713,7 +17713,7 @@ nonvocal
 nonvoter
 nonwhite
 nonwoody
-nons
+nonwords
 nonwoven
 noodging
 noodling
@@ -18848,7 +18848,7 @@ overwide
 overwily
 overwind
 overwise
-over
+overword
 overwore
 overwork
 overworn
@@ -19268,7 +19268,7 @@ passless
 passover
 passport
 passuses
-pass
+password
 pasterns
 pasteups
 pasticci
@@ -22834,7 +22834,7 @@ rewidens
 rewinded
 rewinder
 rewiring
-reed
+reworded
 reworked
 rewriter
 rewrites
@@ -26332,7 +26332,7 @@ stoppers
 stopping
 stoppled
 stopples
-stop
+stopword
 storable
 storages
 storaxes
@@ -27071,8 +27071,8 @@ swooshed
 swooshes
 swoppers
 swopping
-sman
-smen
+swordman
+swordmen
 swotters
 swotting
 swounded
@@ -31033,12 +31033,12 @@ wooralis
 wooraris
 wooshing
 wooziest
-ages
-book
-iest
-ings
-less
-play
+wordages
+wordbook
+wordiest
+wordings
+wordless
+wordplay
 workable
 workably
 workaday
