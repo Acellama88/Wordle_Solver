@@ -110,7 +110,6 @@ def main():
             known = input("Enter Known Leters and Place (**a**): ")
         unknown = input("Enter Known Letters in Unknown Places: ")
         nots = "."
-        notIts = []
         while len(nots) != numLetters and len(nots) > 0:
             if(nots != "."):
                 print(f'Invalid String Size ({numLetters}): {nots} = {len(nots)}')
@@ -152,14 +151,11 @@ def main():
                 continue
             
             #Known Letters in Wrong Spots
-            for j in range(len(notIts)):
-                for i in range(numLetters):
-                    if notIts[j][i] == '*':
-                        continue
-                    if line[i] == notIts[j][i]:
-                        stop = True
-                        break
-                if stop:
+            for i in range(numLetters):
+                if nots[i] == '*':
+                    continue
+                if line[i] == nots[i]:
+                    stop = True
                     break
             if stop:
                 removeWords.append(line)
