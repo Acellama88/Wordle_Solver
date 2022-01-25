@@ -151,7 +151,7 @@ def main():
                 continue
             
             #Known Letters in Wrong Spots
-            for i in range(numLetters):
+            for i in range(len(nots)):
                 if nots[i] == '*':
                     continue
                 if line[i] == nots[i]:
