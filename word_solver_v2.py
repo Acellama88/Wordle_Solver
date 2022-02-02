@@ -1,3 +1,6 @@
+from datetime import date
+from datetime import timedelta
+
 wordlist = []
 alphaScores = [ [0,"a"],[0,"b"],[0,"c"],[0,"d"],[0,"e"],[0,"f"],[0,"g"],[0,"h"],[0,"i"],[0,"j"],[0,"k"],[0,"l"],[0,"m"],[0,"n"],[0,"o"],[0,"p"],[0,"q"],[0,"r"],[0,"s"],[0,"t"],[0,"u"],[0,"v"],[0,"w"],[0,"x"],[0,"y"],[0,"z"] ]
 Scores = [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
@@ -10,12 +13,41 @@ def getWordList():
     if(numLetters == ""):
         numLetters = 5
     numLetters = int(numLetters)
-    if 2 <= numLetters <= 15:
+    options = "1"
+    if numLetters == 5:
+        options = input("How would you like to play?\n\t1) Dictionary List\n\t2) Wordle Dictionary\n\t3) Wordle Solution Dictionary\n\t4) Get Specific Day's Word\n\t5) Get Today's Word\n>")
+    if options == "1" and 2 <= numLetters <= 15:
         with open(f'./word_list/{numLetters}-letter-words.txt', 'r') as f:
             for line in f:
                 wordlist.append(line.strip())
         print("\n")
         return
+    elif options == "2":
+        with open(f'./word_list/wordle_guess_list.txt', 'r') as f:
+            for line in f:
+                wordlist.append(line.strip())
+        print("\n")
+        return
+    elif options == "3":
+        with open(f'./word_list/wordle_solution_list.txt', 'r') as f:
+            for line in f:
+                wordlist.append(line.strip())
+        print("\n")
+        return
+    elif options == "4":
+        with open(f'./word_list/wordle_daily_list.txt', 'r') as f:
+            for line in f:
+                wordlist.append(line.strip())
+        day = int(input ("\nWhich Day? "))
+        print(wordlist[day % len(wordlist)])
+        exit()
+    elif options == "5":
+        with open(f'./word_list/wordle_daily_list.txt', 'r') as f:
+            for line in f:
+                wordlist.append(line.strip())
+        day = (date.today() - date(2021, 6, 19))
+        print(wordlist[day.days % len(wordlist)])
+        exit()
     print("Invalid number of letters: 2 - 15")
     exit()
 
